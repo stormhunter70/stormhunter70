@@ -18,7 +18,7 @@ Skills and Achivements
 | 🌱 I’m currently learning `C++` |
 | 📫 How to reach me: telegram `@mkrves70` |
 | 😄 Pronouns: `StormHunter` |
-| ⚡ Fun fact: `Love tuning dirtbike engines (ECU remapping)`|
+| ⚡ Fun fact: `Love 2 strokes`|
 | 🌲 Birtplace: `Tyumen, Russia`|
 
 ## Favourite quote
