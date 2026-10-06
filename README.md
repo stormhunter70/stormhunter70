@@ -17,9 +17,9 @@ Skills and Achivements
 | 🔭 I’m currently working on `SORT ME LAB1 Algorithms and Data structure` |
 | 🌱 I’m currently learning `C++` |
 | 📫 How to reach me: telegram `@mkrves70` |
-| 😄 Pronouns: <mark>StormHunter</mark> |
-| ⚡ Fun fact: Love tuning dirtbike engines (ECU remapping)|
-| 🌲 Birtplace: Tyumen, Russia|
+| 😄 Pronouns: `StormHunter` |
+| ⚡ Fun fact: `Love tuning dirtbike engines (ECU remapping)`|
+| 🌲 Birtplace: `Tyumen, Russia`|
 
 ## Favourite quote
 `If you were 30 failures away from your goal. How fast would you want to fail?`
@@ -34,7 +34,6 @@ Skills and Achivements
     <img src="https://skillicons.dev/icons?i=git,python,c,markdown" />
   </a>
 </p>
-## Coding stats
-![GitHub Streak](https://streak-stats.demolab.com?user=stormhunter70)
 
+## Coding stats
 ![Top Langs](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=stormhunter70)
