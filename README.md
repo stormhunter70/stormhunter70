@@ -31,7 +31,7 @@ Skills and Achivements
 ## Bages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,python,c,markdown,c++" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,markdown,LaTeX" />
   </a>
 </p>
 
