@@ -17,7 +17,7 @@ Skills and Achivements
 | 🔭 I’m currently working on `Programming Fundamentals HW 1` |
 | 🌱 I’m currently learning `C/C++` |
 | 📫 How to reach me: telegram `unreachable` |
-| 😄 Pronouns: `StormHunter` |
+| 😄 Pronouns: `StormHunter (he)` |
 | ⚡ Fun fact: `fun fact`|
 | 🌲 Birtplace: `Russia`|
 
