@@ -28,7 +28,7 @@ Skills and Achivements
 ```c++
 >>> std::cout << "Hello world!";
 ```
-## Bages
+## SKILLS
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,c,cpp,markdown,LaTeX-dark" />
