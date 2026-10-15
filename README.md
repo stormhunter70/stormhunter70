@@ -7,19 +7,19 @@
 ## Short Bio
 Skills and Achivements
 - english C1
-- graduated Gymnasium №16, Tyumen (2015-2026)
+- graduated school (2015-2026)
 - 2x 85cc motocross regional champ, 1x 125cc runner up
 - and much more...
 
 
 | Stats |
 |-----------|
-| 🔭 I’m currently working on `SORT ME LAB1 Algorithms and Data structure` |
-| 🌱 I’m currently learning `C++` |
-| 📫 How to reach me: telegram `@mkrves70` |
+| 🔭 I’m currently working on `Programming Fundamentals HW 1` |
+| 🌱 I’m currently learning `C/C++` |
+| 📫 How to reach me: telegram `unreachable` |
 | 😄 Pronouns: `StormHunter` |
-| ⚡ Fun fact: `Love 2 strokes`|
-| 🌲 Birtplace: `Tyumen, Russia`|
+| ⚡ Fun fact: `fun fact`|
+| 🌲 Birtplace: `Russia`|
 
 ## Favourite quote
 `If you were 30 failures away from your goal. How fast would you want to fail?`
