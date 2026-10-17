@@ -1,6 +1,6 @@
 <center>
 
-# Sup! 👋 I'm EGOR - ITMO freshman student. Sowtware engineering
+# Sup! 👋 ITMO freshman student. Sowtware engineering
 
 </center>
 
@@ -8,13 +8,12 @@
 Skills and Achivements
 - english C1
 - graduated school (2015-2026)
-- 2x 85cc motocross regional champ, 1x 125cc runner up
 - and much more...
 
 
 | Stats |
 |-----------|
-| 🔭 I’m currently working on `Programming Fundamentals HW 1` |
+| 🔭 I’m currently working on `Data Structure and Algorithms` |
 | 🌱 I’m currently learning `C/C++` |
 | 📫 How to reach me: telegram `unreachable` |
 | 😄 Pronouns: `StormHunter (he)` |
